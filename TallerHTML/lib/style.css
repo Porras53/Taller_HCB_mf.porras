@@ -1,0 +1,22 @@
+/* Add your styles here */
+#fotoTitulo {
+  text-align: center;
+  border: 50pc;
+  border-color: green;
+  border-width: 4;
+}
+h1 {
+  background-color: rgba(62, 177, 120, 0.5);
+  color: white;
+}
+#Logo {
+  border: 5px solid #1031b3;
+  border-radius: 50px 30px 80px 10px;
+  margin: 15px;
+  -webkit-transition: margin 0.5s ease-out;
+  -moz-transition: margin 0.5s ease-out;
+  -o-transition: margin 0.5s ease-out;
+}
+#Logo:hover {
+  margin-top: 2px;
+}
